@@ -1,5 +1,6 @@
 // Reference material
 // https://tomgregory.com/java-optional/
+// https://www.developer.com/java/java-optional-object/
 
 import java.util.Arrays;
 import java.util.List;
